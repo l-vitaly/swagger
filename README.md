@@ -6,7 +6,7 @@ Get swagger yaml/json file.
 
 ``` golang
 import (
-	"fmt"
+  "fmt"
   "net/http"
 
   "github.com/l-vitaly/swagger"
